@@ -1,0 +1,10 @@
+ul li {
+    display:inline;
+    padding: 40px;
+    margin:40px;
+    text-decoration: none;
+}
+.header {
+    background-color: #a8824c;
+    padding: 10px;
+}
