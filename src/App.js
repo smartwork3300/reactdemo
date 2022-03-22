@@ -1,4 +1,4 @@
-import { Routes, Route}  from 'react-router-dom'
+import { Routes, Route,Navigate}  from 'react-router-dom'
 import {Home} from './components/Home'
 import {About} from './components/About'
 import {Contact} from './components/contact/Contact'
@@ -12,8 +12,9 @@ function App() {
     
      {/* <Route  exact path='/reactdemo' element={<Home />}></Route>
      <Route  exact path='/home' element={<Home />}></Route> */}
-     <Route   path='/' element={<Home />}></Route>
      <Route  exact path='/home' element={<Home />}></Route>
+     <Route   path='/reactdemo' element={<Navigate replace to ='/home' />}></Route>
+
      
 
 
