@@ -1,0 +1,29 @@
+h5{
+    margin-top:20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+ div {
+  margin-bottom: 15px;
+}
+label {
+  display: inline-block;
+  width: 150px;
+  text-align: left;
+}
+
+.button {
+background-color: #4CAF50;
+border: none;
+color: white;
+padding: 8px 25px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+cursor: pointer;
+border-radius:20px;
+margin-left: 170px;
+margin-top: 20px;
+margin-bottom: 20px;
+}

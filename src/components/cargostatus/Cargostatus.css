@@ -1,0 +1,40 @@
+h5{
+    margin-top:20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.button {
+background-color: #4CAF50;
+border: none;
+color: white;
+padding: 8px 25px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+cursor: pointer;
+border-radius:20px;
+
+margin-top: 30px;
+margin-bottom: 30px; 
+margin-left:100px; 
+}
+.cons-id{
+
+margin-top: 40px;
+margin-bottom: 20px;
+text-align: center; 
+}
+div {
+  margin-bottom: 15px;
+}
+label {
+  display: inline-block;
+  width: 150px;
+  text-align: left;
+}
+.unorderedlist{
+  margin-top: 90px;
+margin-left: 40px;
+}

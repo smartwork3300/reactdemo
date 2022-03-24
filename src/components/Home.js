@@ -42,20 +42,17 @@ export const Home = () => {
 
             
 
-              <div class="container">
-                  <div class="row">
-                      <div class="col-md-4"></div>
-                      <div class="col-md-4">
-                <Link to="/consign">
-                <button  className="btn submit">Next Page</button>
-                </Link>
+            <div class="container">
+    <div class="row">
+        <div class="col-md-5"></div>
+        <div class="col-md-3">
+        <Link to="/manifest"><button class="button">Next Page</button></Link>
 
-                      </div>
-                      <div class="col-md-4"></div>
+        </div>
+        <div class="col-md-4"></div>
 
-                  </div>
-
-              </div>
+    </div>
+    </div>
 
              
 

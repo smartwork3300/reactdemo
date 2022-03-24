@@ -1,0 +1,15 @@
+h5{
+    margin-top:20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
+div {
+  margin-bottom: 15px;
+}
+label {
+  display: inline-block;
+  width: 150px;
+  text-align: left;
+}
